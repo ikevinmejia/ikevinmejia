@@ -11,9 +11,9 @@
 
 - 🌱 Actualmente estoy aprendiendo desarrollo mobile con Flutter y mejorando mi nivel de inglés.
 
-- 👯 Cuándo estaba iniciando mi carrera como desarrollador construimos una aplicación para demostrar nuestras habilidades como devs para un público gamer y que quiere ponerse en forma [KoalaFit](https://www.google.com/)
+- 👯 Cuándo estaba iniciando mi carrera como desarrollador construimos una aplicación para demostrar nuestras habilidades como devs para un público gamer y que quiere ponerse en forma [KoalaFit](https://prueba-demo-b0990.web.app/)
 
-- 🤝 Una aplicación que construí hace un buen tiempo que me hace sentir muy orgulloso fue de El Tiempo o consulta del Clima con inicio de sesión en Firebase y consumo del api pública Open Weather [WeatherApp](https://www.google.com/)
+- 🤝 Una aplicación que construí hace un buen tiempo que me hace sentir muy orgulloso fue de El Tiempo o consulta del Clima con inicio de sesión en Firebase y consumo del api pública Open Weather [WeatherApp](https://weatherapp-f9958.web.app/)
 
 - 👨‍💻 Todos mis proyectos estan disponibles en: [https://www.google.com/](https://www.google.com/)
 
