@@ -1,34 +1,59 @@
-<h1 align="center">Hola 👋, soy Kevin Mejia</h1>
-<h3 align="center">Desarrollador frontend y aprendiendo mobile con flutter</h3>
+<h1 align="center">¡Hola! 👋 Soy Kevin Mejía</h1>
+<h3 align="center">Full Stack Developer | React • Angular • Node.js • NestJS</h3>
 
-
-
-
-<p align="left"> <a href="https://twitter.com/ikevinmejia" target="blank"><img src="https://img.shields.io/twitter/follow/ikevinmejia?logo=twitter&style=for-the-badge" alt="ikevinmejia" /></a> </p>
-
-- 🔭 Actualmente trabajo en un proyecto para la empresa en la que estoy incursionando que quiere aportar una solución tecnologica en la educación en la construcción de pruebas para colegios y prepapar a las nuevas generaciones para el ICFES y examenes de admisión de universidades. [Enlazaa](https://www.google.com/)
-
-- 🌱 Actualmente estoy aprendiendo desarrollo mobile con Flutter y mejorando mi nivel de inglés.
-
-- 👯 Cuándo estaba iniciando mi carrera como desarrollador construimos una aplicación para demostrar nuestras habilidades como devs para un público gamer y que quiere ponerse en forma [KoalaFit](https://prueba-demo-b0990.web.app/)
-
-- 🤝 Una aplicación que construí hace un buen tiempo que me hace sentir muy orgulloso fue de El Tiempo o consulta del Clima con inicio de sesión en Firebase y consumo del api pública Open Weather [WeatherApp](https://weatherapp-f9958.web.app/)
-
-- 👨‍💻 Todos mis proyectos estan disponibles en: [https://www.google.com/](https://www.google.com/)
-
-- 📫 Aquí puedes contactarme **kevin_6958@hotmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ikevinmejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ikevinmejia" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ikevinmejia" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ikevinmejia" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://linkedin.com/in/Ikevinmejia" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/ikevinmejia" target="_blank"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:kevin_6958@hotmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikevinmejia&show_icons=true&locale=en&layout=compact" alt="ikevinmejia" /></p>
+### 🚀 Sobre mí
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikevinmejia&show_icons=true&locale=en" alt="ikevinmejia" /></p>
+Desarrollador Full Stack con **más de 4 años de experiencia** construyendo aplicaciones web modernas, módulos administrativos y APIs RESTful escalables. Enfocado en arquitectura de software limpia, rendimiento e integración continua bajo metodologías ágiles (Scrum & Kanban).
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikevinmejia&" alt="ikevinmejia" /></p>
+- 🏢 **Última experiencia:** Desarrollador Frontend en **CEINFES**, creando más de 15 plataformas web y módulos administrativos para el sector educativo.
+- 🛠️ **Proyecto actual:** Desarrollando en mis tiempos libres una plataforma web para la compraventa de vehículos utilizando **Angular** en el frontend y **NestJS** en el backend.
+- 🎯 **Enfocado en:** Desarrollo de interfaces complejas con React, Next.js y Angular, respaldado por backends robustos con Node.js y NestJS.
+- 📐 **Buenas prácticas:** Apasionado por el código limpio, arquitectura de componentes reutilizables y optimización de rendimiento con TanStack Query y TypeScript.
+- 🌐 **Idiomas:** Español (Nativo) | Francés (B1) | Inglés (A2 - Cursando B1).
+
+---
+
+### 💻 Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**Backend & Bases de Datos**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Herramientas & Estado**
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+### 📌 Proyectos Destacados
+
+- 🏋️‍♂️ **[KoalaFit](https://prueba-demo-b0990.web.app/)**: Aplicación web desarrollada con React, Redux Toolkit y Firebase para la gestión de rutinas de entrenamiento y autenticación de usuarios.
+- 🌤️ **[WeatherApp](https://weatherapp-f9958.web.app/)**: Aplicación interactiva del clima construida con React, Tailwind CSS, Axios y la API de OpenWeather, integrando autenticación con Firebase.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikevinmejia&" alt="ikevinmejia" />
+</p>
